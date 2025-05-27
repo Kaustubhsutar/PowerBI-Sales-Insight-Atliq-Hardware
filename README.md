@@ -53,6 +53,4 @@ The project uses the following Excel datasets:
 - Star Schema Modeling
 - Data Cleaning & Shaping
 
-### 🔖 Tags
 
-`Power BI` `Sales Analytics` `Profit Analysis` `Business Intelligence` `Atliq Hardware` `Data Cleaning` `DAX` `Star Schema` `Data Modeling` `Data Visualization`
